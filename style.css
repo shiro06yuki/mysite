@@ -125,7 +125,7 @@ img {
 /* DIALY 
 -------------------------------------------------------------------------------------------------------------------------------*/
 #dialy {
-    background-image: url(../img/storytelling.jpg),linear-gradient(#f6f0f6,#e2eba3);
+    background-image: url(https://github.com/shiro06yuki/mysite/blob/master/storytelling.jpg?raw=true),linear-gradient(#f6f0f6,#e2eba3);
     height: 200px;
     margin-bottom: 30px;
     background-color: #f1eac3;
