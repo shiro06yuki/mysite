@@ -112,7 +112,7 @@ img {
 }
 
 #home {
-    background-image: url(../img/storytelling.jpg),linear-gradient(#f6f0f6,#e2eba3);
+    background-image: url(https://shiro06yuki.github.io/mysite/storytelling.jpg),linear-gradient(#f6f0f6,#e2eba3);
     min-height: 100vh;
     background-color: #f1eac3;
     background-blend-mode: luminosity;
