@@ -32,6 +32,10 @@ img {
     margin-top: 14px;
 }
 
+.no {
+    font-size: 1.5rem;
+}
+
 .main-nav {
     display: flex;
     font-size:  1.25rem;
@@ -108,7 +112,7 @@ img {
 }
 
 #home {
-    background-image: url(https://github.com/shiro06yuki/mysite/blob/master/storytelling.jpg?raw=true),linear-gradient(#f6f0f6,#e2eba3);
+    background-image: url(../img/storytelling.jpg),linear-gradient(#f6f0f6,#e2eba3);
     min-height: 100vh;
     background-color: #f1eac3;
     background-blend-mode: luminosity;
@@ -121,7 +125,7 @@ img {
 /* DIALY 
 -------------------------------------------------------------------------------------------------------------------------------*/
 #dialy {
-    background-image: url(https://github.com/shiro06yuki/mysite/blob/master/storytelling.jpg?raw=true),linear-gradient(#f6f0f6,#e2eba3);
+    background-image: url(../img/storytelling.jpg),linear-gradient(#f6f0f6,#e2eba3);
     height: 200px;
     margin-bottom: 30px;
     background-color: #f1eac3;
@@ -148,6 +152,15 @@ footer p {
 
 /*　記事部分　
 --------------------------------------------*/
+
+.prev_next_btn {
+    display: flex;
+    justify-content: space-between;
+}
+
+.prev,.next {
+    font-size: large;
+}
 
 article {
     width: 74%;
