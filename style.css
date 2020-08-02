@@ -377,6 +377,10 @@ aside p {
     .menu-content {
         margin-top: 20%;
     }
+    
+    .menu-content {
+        margin-left: 20px;   
+    }    
 
     .big-box {
         grid-column: auto;
