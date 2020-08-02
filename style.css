@@ -379,7 +379,11 @@ aside p {
     }
     
     .menu-content {
-        padding-left: 20px;   
+        padding-right: 4rem;    
+    }
+    
+    .menu-content {
+        padding-left: 2rem;   
     }    
 
     .big-box {
